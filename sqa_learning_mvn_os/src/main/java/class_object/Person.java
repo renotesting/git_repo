@@ -7,6 +7,15 @@ public class Person {
 	private int age;
 	private String ssn;
 	
+	public Person(String name, int age, String ssn){
+		this.name = name;
+		this.age = age;
+		this.ssn = ssn;
+	}
+	
+	public Person(){
+		
+	}
 	//This is an example of a function / instance method / behavior of a class
 	public void printName(){
 		System.out.println("My name is : "+name);
@@ -33,4 +42,28 @@ public class Person {
 		System.out.println("Age is : "+personObject2.age);
 		System.out.println("ssn is : "+personObject2.ssn);
 	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public int getAge() {
+		return age;
+	}
+
+	public void setAge(int age) {
+		this.age = age;
+	}
+
+	public String getSsn() {
+		return ssn;
+	}
+
+	public void setSsn(String ssn) {
+		this.ssn = ssn;
+	}	
 }

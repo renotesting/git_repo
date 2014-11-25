@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40" started-at="2014-11-24T23:26:43Z" finished-at="2014-11-24T23:26:43Z">
+    <groups>
+      <group name="functest">
+        <method signature="FruitTest.appleNameTest()[pri:0, instance:testNg.FruitTest@3f279472]" name="appleNameTest" class="testNg.FruitTest"/>
+        <method signature="FruitTest.fruitNameTest()[pri:0, instance:testNg.FruitTest@3f279472]" name="fruitNameTest" class="testNg.FruitTest"/>
+      </group> <!-- functest -->
+    </groups>
+    <test name="Default test" duration-ms="40" started-at="2014-11-24T23:26:43Z" finished-at="2014-11-24T23:26:43Z">
+      <class name="testNg.FruitTest">
+        <test-method status="PASS" signature="appleNameTest()[pri:0, instance:testNg.FruitTest@3f279472]" name="appleNameTest" duration-ms="18" started-at="2014-11-24T16:26:43Z" finished-at="2014-11-24T16:26:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appleNameTest -->
+        <test-method status="PASS" signature="fruitNameTest()[pri:0, instance:testNg.FruitTest@3f279472]" name="fruitNameTest" duration-ms="1" started-at="2014-11-24T16:26:43Z" finished-at="2014-11-24T16:26:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fruitNameTest -->
+      </class> <!-- testNg.FruitTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="testNg.ParamTestWithDataProvider1">
+        <methods>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- testNg.ParamTestWithDataProvider1 -->
+      <class name="testNg.ParamTestWithDataProviderClass">
+        <methods>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- testNg.ParamTestWithDataProviderClass -->
+      <class name="testNg.TestDependency">
+        <methods>
+          <include name="testSalutationMessage"/>
+          <include name="initEnvironmentTest"/>
+        </methods>
+      </class> <!-- testNg.TestDependency -->
+      <class name="testNg.TestingTestNgLifeCycle">
+        <methods>
+          <include name="afterSuite"/>
+          <include name="afterTest"/>
+          <include name="beforeMethod"/>
+          <include name="beforeGroups"/>
+          <include name="afterMethod"/>
+          <include name="afterClass"/>
+          <include name="beforeSuite"/>
+          <include name="beforeTest"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- testNg.TestingTestNgLifeCycle -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

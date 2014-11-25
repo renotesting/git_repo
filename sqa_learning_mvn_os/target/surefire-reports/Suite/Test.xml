@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Gangs-MacBook-Air.local" name="testNg.CalculatorTestNg" tests="40" failures="0" timestamp="23 Nov 2014 02:07:03 GMT" time="0.09" errors="0">
+  <testcase name="testAddByNg" time="0.007" classname="testNg.CalculatorTestNg"/>
+  <testcase name="appleNameTest" time="0.0" classname="testNg.FruitTest"/>
+  <testcase name="fruitNameTest" time="0.001" classname="testNg.FruitTest"/>
+  <testcase name="test1" time="0.0" classname="testNg.GroupTestExample"/>
+  <testcase name="testPrintMessage" time="0.001" classname="testNg.GroupTestExample"/>
+  <testcase name="testSalutationMessage" time="0.001" classname="testNg.GroupTestExample"/>
+  <testcase name="testingExitMessage" time="0.001" classname="testNg.GroupTestExample"/>
+  <testcase name="testAdd" time="0.001" classname="testNg.ParamTestWithDataProvider1"/>
+  <testcase name="testAdd" time="0.0" classname="testNg.ParamTestWithDataProvider1"/>
+  <testcase name="testAdd" time="0.0" classname="testNg.ParamTestWithDataProvider1"/>
+  <testcase name="testPrimeNumberChecker" time="0.001" classname="testNg.ParamTestWithDataProvider1"/>
+  <testcase name="testPrimeNumberChecker" time="0.001" classname="testNg.ParamTestWithDataProvider1"/>
+  <testcase name="testPrimeNumberChecker" time="0.0" classname="testNg.ParamTestWithDataProvider1"/>
+  <testcase name="testPrimeNumberChecker" time="0.0" classname="testNg.ParamTestWithDataProvider1"/>
+  <testcase name="testPrimeNumberChecker" time="0.0" classname="testNg.ParamTestWithDataProvider1"/>
+  <testcase name="testAdd" time="0.0" classname="testNg.ParamTestWithDataProviderClass"/>
+  <testcase name="testAdd" time="0.0" classname="testNg.ParamTestWithDataProviderClass"/>
+  <testcase name="testAdd" time="0.0" classname="testNg.ParamTestWithDataProviderClass"/>
+  <testcase name="testPrimeNumberChecker" time="0.001" classname="testNg.ParamTestWithDataProviderClass"/>
+  <testcase name="testPrimeNumberChecker" time="0.001" classname="testNg.ParamTestWithDataProviderClass"/>
+  <testcase name="testPrimeNumberChecker" time="0.001" classname="testNg.ParamTestWithDataProviderClass"/>
+  <testcase name="testPrimeNumberChecker" time="0.001" classname="testNg.ParamTestWithDataProviderClass"/>
+  <testcase name="testPrimeNumberChecker" time="0.001" classname="testNg.ParamTestWithDataProviderClass"/>
+  <testcase name="parameterTest" time="0.001" classname="testNg.ParameterizedTest1"/>
+  <testcase name="testPrintMessage" time="0.0" classname="testNg.TestMessage1"/>
+  <testcase name="Case2" time="0.001" classname="testNg.TestingTestNgLifeCycle"/>
+  <testcase name="testCase1" time="0.001" classname="testNg.TestingTestNgLifeCycle"/>
+  <testcase name="testArithmaticException" time="0.001" classname="testNg.TestNGSimpleTest"/>
+  <testcase name="testInvocationTest" time="0.002" classname="testNg.TestNGSimpleTest"/>
+  <testcase name="testMsg" time="0.001" classname="testNg.TestNGSimpleTest"/>
+  <testcase name="testPercentageTest" time="0.001" classname="testNg.TestNGSimpleTest"/>
+  <testcase name="testPercentageTest" time="0.0" classname="testNg.TestNGSimpleTest"/>
+  <testcase name="testPercentageTest" time="0.0" classname="testNg.TestNGSimpleTest"/>
+  <testcase name="testPercentageTest" time="0.001" classname="testNg.TestNGSimpleTest"/>
+  <testcase name="testPercentageTest" time="0.0" classname="testNg.TestNGSimpleTest"/>
+  <testcase name="testPercentageTest" time="0.0" classname="testNg.TestNGSimpleTest"/>
+  <testcase name="testPercentageTest" time="0.0" classname="testNg.TestNGSimpleTest"/>
+  <testcase name="testPercentageTest" time="0.001" classname="testNg.TestNGSimpleTest"/>
+  <testcase name="testPercentageTest" time="0.001" classname="testNg.TestNGSimpleTest"/>
+  <testcase name="testPercentageTest" time="0.0" classname="testNg.TestNGSimpleTest"/>
+</testsuite>
